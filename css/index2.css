@@ -38,45 +38,13 @@ body{
     background-color: #757575;
     color: #000;
 }
-.nav-more {
-    position: relative;
-}
-
-.nav-more:hover .dropdown {
-    opacity: 1;
-    visibility: visible;
-}
-
-.dropdown {
-    position: absolute;
-    background-color: #fff;
-    color: #000;
-    padding: 10px;
-    text-transform: capitalize;
-    opacity: 0;
-    visibility: hidden;
-    z-index: 1;
-    list-style-type: none;
-    border: 1px solid #ccc;
-    width: 150px;
-}
-
-.dropdown li {
-    padding: 8px;
-    text-align: left;
-}
-
-.dropdown li:hover {
-    background-color: #f1f1f1;
-    cursor: pointer;
-}
 
 
 
 /* home section */
 
 .container{
-  margin-top: 46px;
+  margin-top: 40gitpx;
 }
 .home-item{
     position: relative;
